@@ -1,2 +1,2 @@
 # vknet.github.io
-Basic web site
+Документация VK API for .NET
